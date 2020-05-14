@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.study.springboot</groupId>
+  <artifactId>study-springboot-00-parent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <description>父工程</description>
+  <modules>
+  	<module>study-springboot-11-cache</module>
+  	<module>study-springboot-10-mail</module>
+  	<module>study-springboot-09-task</module>
+  	<module>study-springboot-08-data-jdbc</module>
+  	<module>study-springboot-01-helloworld</module>
+  	<module>study-springboot-02-config</module>
+  	<module>study-springboot-03-logging</module>
+  	<module>study-springboot-04-web</module>
+  	<module>study-springboot-05-error</module>
+  	<module>study-springboot-06-servlet</module>
+  	<module>study-springboot-07-tomcat</module>
+  </modules>
+</project>
